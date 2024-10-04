@@ -7,9 +7,14 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.are-vairevai{
+    display: flex;
+    justify-content: right;
+}
 .banner{
     padding: 200px 100px;
     text-align: right;
+    width: 50%;
 }
 .banner-title{
     font-size: 80px;
